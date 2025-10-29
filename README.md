@@ -75,6 +75,7 @@ http://localhost:8080
 **📡 Endpoints principales**
 
 Método	Endpoint	Descripción
+
 POST	/api/auth/login	Autenticación de usuario
 
 POST	/api/users/register	Registro de usuario
