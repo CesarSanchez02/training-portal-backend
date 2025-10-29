@@ -36,9 +36,8 @@ Correo	SendGrid API
 
 Almacenamiento	MinIO
 
-Testing	JUnit, Mockito
-
 Build	Maven
+
 
 **⚙️ Configuración del entorno**
 
