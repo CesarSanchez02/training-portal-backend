@@ -75,16 +75,21 @@ http://localhost:8080
 **📡 Endpoints principales**
 Método	Endpoint	Descripción
 POST	/api/auth/login	Autenticación de usuario
+
 POST	/api/users/register	Registro de usuario
+
 GET	/api/courses	Listar cursos disponibles
+
 POST	/api/courses	Crear nuevo curso (solo Admin)
+
 GET	/api/users/{id}/progress	Consultar progreso e insignias
+
+
 🧪 Datos de prueba
 Usuario	Rol	Correo	Contraseña
-admin	ROLE_ADMIN	cesar@empresa.com
-	123456
-user1	ROLE_USER	cesar1@banco.com
-	123456
+admin	ROLE_ADMIN	cesar@empresa.com 123456
+
+user1	ROLE_USER	cesar1@banco.com 123456
   
 **✨ Autor**
 
