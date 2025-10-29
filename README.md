@@ -88,11 +88,14 @@ GET	/api/users/{id}/progress	Consultar progreso e insignias
 
 
 🧪 Datos de prueba
+
 Usuario	Rol	Correo	Contraseña
+
 admin	ROLE_ADMIN	cesar@empresa.com 123456
 
 user1	ROLE_USER	cesar1@banco.com 123456
-  
+
+
 **✨ Autor**
 
 César Andrés Sánchez
