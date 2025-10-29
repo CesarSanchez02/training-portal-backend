@@ -73,6 +73,7 @@ http://localhost:8080
 ```
 
 **📡 Endpoints principales**
+
 Método	Endpoint	Descripción
 POST	/api/auth/login	Autenticación de usuario
 
