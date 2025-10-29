@@ -21,14 +21,23 @@ Fue desarrollado con Spring Boot 3, utilizando JWT para autenticación, MySQL co
 
 **🧰 Tecnologías**
 Componente	Tecnología
+
 Lenguaje	Java 24
+
 Framework	Spring Boot 3.x
+
 ORM	Spring Data JPA (Hibernate)
+
 Base de datos	MySQL 8
+
 Seguridad	JWT Authentication
+
 Correo	SendGrid API
+
 Almacenamiento	MinIO
+
 Testing	JUnit, Mockito
+
 Build	Maven
 
 **⚙️ Configuración del entorno**
