@@ -1,5 +1,6 @@
-**⚙️ EduMaster System – Backend (Spring Boot)
-📘 Descripción**
+**⚙️ EduMaster System – Backend (Spring Boot)**
+
+**📘 Descripción**
 
 El backend de EduMaster System gestiona la lógica de negocio, seguridad, persistencia de datos y envío de notificaciones del portal de capacitaciones.
 Fue desarrollado con Spring Boot 3, utilizando JWT para autenticación, MySQL como base de datos y SendGrid para correos automáticos.
